@@ -1,2 +1,2 @@
 # unit13-challenge
-![RoboAdvisor](~/RoboAdvisor.gif)
+![RoboAdvisor](https://github.com/pysouzhny/unit13-challenge/blob/main/RoboAdvisor.gif)
